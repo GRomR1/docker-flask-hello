@@ -1,6 +1,6 @@
-# How to create an OAuth 2.0 Provider
+# An example of the basic use of docker in web development
 
-This is an example of Docker usage with deployment a simple web app [flask-hello](https://github.com/GRomR1/flask-hello).
+This is an example of [Docker](http://docker.com) usage with deployment a simple web app [flask-hello](https://github.com/GRomR1/flask-hello).
 
 ## Build image
 
